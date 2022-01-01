@@ -1,0 +1,28 @@
+{
+    "random": {
+        "allowed": [
+            "loli_sfw_pic", "loli_sfw_gif", "loli_nsfw_pic", "loli_nsfw_gif",
+            "shota_sfw_pic", "shota_sfw_gif", "shota_nsfw_pic", "shota_nsfw_gif"
+        ]
+    },
+    "loli": {
+        "sfw": {
+            "pic": "",
+            "gif": ""
+        },
+        "nsfw": {
+            "pic": "",
+            "gif": ""
+        }
+    },
+    "shota": {
+        "sfw": {
+            "pic": "",
+            "gif": ""
+        },
+        "nsfw": {
+            "pic": "",
+            "gif": ""
+        }
+    }
+}
