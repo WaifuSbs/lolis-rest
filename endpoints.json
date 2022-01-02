@@ -1,0 +1,28 @@
+{
+    "random": {
+        "allowed": [
+            "loli_sfw_pic", "loli_sfw_gif", "loli_nsfw_pic", "loli_nsfw_gif",
+            "shota_sfw_pic", "shota_sfw_gif", "shota_nsfw_pic", "shota_nsfw_gif"
+        ]
+    },
+    "loli": {
+        "sfw": {
+            "pic": "FMFJ01g",
+            "gif": "rWAaUAX"
+        },
+        "nsfw": {
+            "pic": "6s6iUL1",
+            "gif": "HkUUL1s"
+        }
+    },
+    "shota": {
+        "sfw": {
+            "pic": "bU6CYIV",
+            "gif": "a6sqk1T"
+        },
+        "nsfw": {
+            "pic": "dJQW84e",
+            "gif": "7NlJU1k"
+        }
+    }
+}
