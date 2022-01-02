@@ -8,14 +8,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/WeebsLife/lolis-rest.git"
+        "url": "git+https://github.com/WaifuSbs/lolis-rest.git"
     },
     "author": "Ty Nguyen",
     "license": "SEE LICENSE IN LICENSE",
     "bugs": {
-        "url": "https://github.com/WeebsLife/lolis-rest/issues"
+        "url": "https://github.com/WaifuSbs/lolis-rest/issues"
     },
-    "homepage": "https://github.com/WeebsLife/lolis-rest#readme",
+    "homepage": "https://github.com/WaifuSbs/lolis-rest#readme",
     "dependencies": {
         "axios": "^0.24.0",
         "dotenv": "^10.0.0",
